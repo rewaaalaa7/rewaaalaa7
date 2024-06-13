@@ -1,7 +1,6 @@
 [![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)](https://rewaaalaa7.io)
 # <h1 align="center">Hello, I'm Rewaa Awaad</h1>
-
-I am Exploring the frontier of AI research, weaving the magic of Speech Recognition, Computer Vision, and NLP into groundbreaking innovations.
+Exploring the frontier of AI research, weaving the magic of Speech Recognition, Computer Vision, and NLP into groundbreaking innovations.
 As a tech visionary, I am committed to decoding the future and pushing the boundaries of what's possible.
 
 - I’m Senior Artificial Intelligent and Data Science student at **Egypt Japan University of Science and Technology**
