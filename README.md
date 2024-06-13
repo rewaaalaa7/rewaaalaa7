@@ -3,7 +3,7 @@
 Exploring the frontier of AI research, weaving the magic of Speech Recognition, Computer Vision, and NLP into groundbreaking innovations.
 As a tech visionary, I am committed to decoding the future and pushing the boundaries of what's possible.
 
-- I’m a Senior Artificial Intelligent and Data Science student at **Egypt Japan University of Science and Technology**
+- I’m a Senior Artificial Intelligent and Data Science at **Egypt Japan University of Science and Technology**
 
 - I’m currently learning **Computer Vision and NLP**
 
