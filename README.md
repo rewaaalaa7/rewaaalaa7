@@ -15,7 +15,7 @@ As a tech visionary, I am committed to decoding the future and pushing the bound
 <p align="left">
 <a href="https://linkedin.com/in/rewaa alaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rewaa alaa" height="30" width="40" /></a>
 <a href="https://kaggle.com/rewa77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="rewa77" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/rewa77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rewa77" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/rewaa_alaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rewaa_alaa" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
